@@ -1,0 +1,3 @@
+displayName = Enhanced Multi Player
+author = Sammwy
+version = 0.1
